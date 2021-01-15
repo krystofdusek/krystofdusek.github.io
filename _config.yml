@@ -7,7 +7,7 @@ url                          : https://krystofdusek.github.io # the base hostnam
 blog:
   title                      : CZ-NO
   description                  : >
-English club
+
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
