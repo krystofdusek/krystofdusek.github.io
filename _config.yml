@@ -26,7 +26,7 @@ blog:
 # Author info
 author:
   fullname                  : Krystof Dusek
-  rss                       : true # generate RSS feed and show it's icon in header
+  rss                       : false # generate RSS feed and show it's icon in header
   mail                      : your@email.com # change to your e-mail address
   twitter                   : false
   github                    : false
